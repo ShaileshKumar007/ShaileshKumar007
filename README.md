@@ -26,6 +26,5 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" alt="css3" width="35" height="35"/> </a> </br></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaileshkumar007&show_icons=true&locale=en&layout=compact" alt="shaileshkumar007" /></p>
-</br> </br>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shaileshkumar007&show_icons=true&locale=en" alt="shaileshkumar007" /></p> 

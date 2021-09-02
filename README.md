@@ -1,12 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Shailesh!</h1>
 <p align="center">
-<a href="https://twitter.com/shailesh2002k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shailesh88" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shailesh-kumar-27799517a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailesh14" height="30" width="40" /></a>
-<a href="mailto:shailesh1429k@gmail.com"> <img align="center" width="30px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" /> </a>
-<a href="https://instagram.com/shailesh_8322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shailesh_8322" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shailesh88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shailesh1429k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shailesh" height="30" width="40" /></a>
-<a href="https://leetcode.com/Shailesh007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shailesh" height="30" width="40" /></a>
+<a href="https://twitter.com/shailesh2002k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shailesh88" height="30" width="40" /></a> &nbsp;
+<a href="https://www.linkedin.com/in/shailesh-kumar-27799517a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shailesh14" height="30" width="40" /></a> &nbsp;
+<a href="mailto:shailesh1429k@gmail.com"> <img align="center" width="30px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" /> </a> &nbsp;
+<a href="https://instagram.com/shailesh_8322" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shailesh_8322" height="30" width="40" /></a> &nbsp;
 </p>
 
 ## 🚀 About Me

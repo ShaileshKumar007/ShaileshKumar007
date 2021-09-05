@@ -16,7 +16,7 @@
 - Web Development
 - Open Source
 
-## 🧑‍💻 Language and Tools
+## 🧑‍💻 Languages and Tools
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> &nbsp;
 <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> &nbsp;
@@ -28,4 +28,15 @@
 
 ## 📈 My Stats
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shaileshkumar007&show_icons=true&locale=en" alt="shaileshkumar007" /></p> 
+
+![ShaileshKumar007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaileshKumar007&layout=compact)
+</br></br>
+
+## 🏆 My Trophies
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=shaileshkumar007&row=1&column=8&theme=radical&margin-w=15" width="100%">
+</a>
+
+
+
 

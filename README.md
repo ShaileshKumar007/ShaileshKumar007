@@ -36,7 +36,7 @@
 </a>
 
 ## 🏆 My Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy">
+<a>
   <img src="https://github-profile-trophy.vercel.app/?username=shaileshkumar007&row=1&column=8&theme=radical&margin-w=15" width="100%">
 </a>
 

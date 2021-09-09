@@ -16,6 +16,10 @@
 - Web Development
 - Open Source
 
+## 🤩 My Achievements
+- Got selected for [AWS Machine Learning Scholorship Program](https://www.linkedin.com/posts/shailesh-kumar-27799517a_udacityawsscholars-poweredbyaws-machinelearning-activity-6814290760691777536-slPP)
+- Scored [Global Rank 1](https://www.codechef.com/rankings/MAY21C?order=asc&search=shailesh88&sortBy=rank) in May 2021 Long Challenge on CodeChef
+
 ## 🧑‍💻 Languages and Tools
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></code> &nbsp;

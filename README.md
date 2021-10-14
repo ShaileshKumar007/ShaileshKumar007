@@ -32,13 +32,11 @@
 </br></br>
 
 ## 📈 My Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=shaileshkumar007&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Shailesh's Github Stats" />
-</a>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shaileshkumar007&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshkumar007&theme=tokyonight" />
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=shaileshkumar007&layout=compact&theme=material-palenight" />
-</a>
 
 ## 🏆 My Trophies
 <a>

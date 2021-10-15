@@ -11,7 +11,7 @@
 :man_technologist:I'm more inclined towards Machine Learning, AI, Web Development, Open Source and I love to learn and apply new things.</br>
 
 
-<img align="right" alt="PNG" src="https://github.com/ShaileshKumar007/ShaileshKumar007/blob/main/octacat.png" width="350" height="350" />
+<img align="right" alt="PNG" src="https://github.com/ShaileshKumar007/ShaileshKumar007/blob/main/octacat.png" width="300" height="300" />
 
 ## 🛠 Skills
 - DSA

@@ -10,6 +10,9 @@
 :man_student:I’m a tech enthusiast and currently pursuing my Bachelors in Computer Science & Engineering.</br>
 :man_technologist:I'm more inclined towards Machine Learning, AI, Web Development, Open Source and I love to learn and apply new things.</br>
 
+
+<img align="right" alt="PNG" src="https://github.com/ShaileshKumar007/ShaileshKumar007/blob/main/octacat.png" width="400" height="400" />
+
 ## 🛠 Skills
 - DSA
 - Competitive Programming

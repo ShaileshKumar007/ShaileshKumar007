@@ -10,7 +10,6 @@
 :man_student:I’m a tech enthusiast and currently pursuing my Bachelors in Computer Science & Engineering.</br>
 :man_technologist:I'm more inclined towards Machine Learning, AI, Web Development, Open Source and I love to learn and apply new things.</br>
 
-![Shailesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shaileshkumar007&theme=xcode)
 
 <img align="right" alt="PNG" src="https://github.com/ShaileshKumar007/ShaileshKumar007/blob/main/octacat.png" width="300" height="300" />
 

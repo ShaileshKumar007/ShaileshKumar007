@@ -7,24 +7,22 @@
 </p>
 
 ## 🚀 About Me
-:man_student:I’m a tech enthusiast and currently pursuing my Bachelors in Computer Science & Engineering.</br>
-:man_technologist:I'm more inclined towards Machine Learning, AI, Web Development, Open Source and I love to learn and apply new things.</br>
+- I'm Shailesh, currently pursuing my Bachelors in Computer Science & Engineering. 
+- I’m a tech enthusiast who keeps on exploring new things and doing experiments with new technologies.
+- I love to collaborate with new people and therefore I'm always open for collaboration.
+- Feel free to connect with me by clicking on my socials.
 
 
 <img align="right" alt="PNG" src="https://github.com/ShaileshKumar007/ShaileshKumar007/blob/main/octacat.png" width="300" height="300" />
-
-## 🛠 Skills
-- DSA
-- Competitive Programming
-- Web Development
-- Open Source
+<br>
 
 ## 🤩 My Achievements
 - [Postman Student Expert ](https://badgr.com/public/assertions/xKZX4hd7S22MsbyivkN4CQ?action=download) ( Feb, 2022 - Present )
 - Got selected for [AWS Machine Learning Scholorship Program](https://www.linkedin.com/posts/shailesh-kumar-27799517a_udacityawsscholars-poweredbyaws-machinelearning-activity-6814290760691777536-slPP)
 - Scored [Global Rank 1](https://www.codechef.com/rankings/MAY21C?order=asc&search=shailesh88&sortBy=rank) in May 2021 Long Challenge on CodeChef
+<br>
 
-## 🧑‍💻 Languages and Tools
+## 👨‍💻 Languages
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></code> &nbsp;
@@ -33,14 +31,21 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></code> &nbsp;
-<code><img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" alt="css3" width="50" height="50"/></code> &nbsp;
+</br></br>
+
+## 🛠️ Tools and Technologies
+
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50" height="50"/></code> &nbsp;
 <code><img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" alt="github" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/></code> &nbsp;
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50"/></code> &nbsp;
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="50" height="50"/></code> &nbsp;
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/></code> &nbsp;
 </br></br>
+
 
 ## 📈 My Stats
 <p align="center">

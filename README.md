@@ -18,6 +18,7 @@
 <br>
 
 ## 🤩 My Achievements
+- Upcoming Intern at JP Morgan Chase & Co.
 - Google Developer Student Club (GDSC)  Lead ( July, 2022 - Present)
 - Beta Microsoft Learn Student Ambassador ( October, 2022 - Present)
 - JPMC Code for Good'22 Finalist
